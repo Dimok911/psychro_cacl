@@ -129,7 +129,7 @@ document.getElementById("tdp").value=tdp_si.toFixed(1);
 }
 else {
 document.getElementById("twb").value='';
-document.getElementById("tdp").value='';f
+document.getElementById("tdp").value='';
 }
  }
  else { 
